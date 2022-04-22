@@ -5,11 +5,11 @@
 }
 
 body {
-  font-family: 'Mukta', sans-serif;
+  font-family: "Mukta", sans-serif;
 }
 
 h1 {
-  background: linear-gradient(10deg, #3bedb7, #3bed77); 
+  background: linear-gradient(10deg, #3bedb7, #3bed77);
   text-align: center;
   padding: 8%;
   font-size: 3rem;
@@ -35,19 +35,11 @@ form {
   margin-top: 2%;
   margin-bottom: 5%;
   font-size: 1.25rem;
-  transition: all .25s;
-}
-
-.button:hover {
-  color: white;
-  letter-spacing: 10px;
-  background-color: #15e0a3;
 }
 
 #cliche-text {
   display: flex;
   flex-direction: column;
-
 }
 
 .result {
@@ -74,10 +66,17 @@ form {
 
   .button {
     padding: 2%;
+    margin-bottom: 2.5%;
   }
 
-  .result, .match  {
+  .result,
+  .match {
     width: 50%;
     margin: auto;
   }
+}
+
+.button:hover {
+  color: white;
+  background-color: #15e0a3;
 }

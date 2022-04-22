@@ -28,7 +28,8 @@ const text = [
   "They're looking like they are running out of steam",
   "He's not that sort of player",
   "The magic of the FA Cup!",
-  "The most important thing is the three points", "He's scored from an impossible angle!"
+  "The most important thing is the three points", "He's scored from an impossible angle!", "You get the feeling he could play in a telephone box", "You couldn't write it!", "At the end of the day, it's all about the three points", 
+
 ]
 
 const commentator = ['Jermaine Jenas', 'Martin Keown', 'Glenn Hoddle', 'Steve McManaman', 'Danny Murphy', 'Ally McCoist', 'Michael Owen', 'Gary Neville', 'Jamie Carragher', 'Martin Tyler', 'Andy Gray', 'Robbie Savage', 'Andy Townsend', 'Lee Dixon']
